@@ -8,9 +8,9 @@
 export default {
   data() {
     return {
-      loggedId: false,
+      loggedId: false
     }
-  },
+  }
 }
 </script>
 

@@ -12,7 +12,7 @@ import HelloWorld from '@/components/AppHeader.vue'
 export default {
   name: 'HomeView',
   components: {
-    HelloWorld,
-  },
+    HelloWorld
+  }
 }
 </script>
